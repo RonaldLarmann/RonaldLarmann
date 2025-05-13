@@ -1,5 +1,5 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
+baseURL = 'www.wortwerk.team'
+languageCode = 'de-de'
 title = 'Ronald'
 theme = 'ananke'
 
