@@ -1,9 +1,9 @@
 ---
-title:  Life is what happens when you’re busy making other plans
-description: These complex processes, called physiological functions, have underlying physical and chemical bases, as well as signaling and control mechanisms that are essential to maintaining life.
-date:   2020-11-06 15:01:35 +0300
+title:  Einblicke in den Nationalpark Eifel
+description: Vortrag mit Parkleiter Michael Lammertz begeisterte Jugendliche am Mechernicher Gymnasium Am Turmhof
+date:   2025-05-14 15:01:35 +0300
 authors: [tiana]
-image:  'https://placehold.co/1200x800'
+image:  '/Vortrag Lammertz GAT 25 2.JPG'
 video_embed:
 tags:   [technology]
 tags_color: '#4c49cb'
@@ -33,6 +33,7 @@ Enculturation is the process by which people learn values and behaviors that are
 Electronic learning or e-learning is computer-enhanced learning. A specific and always more diffused e-learning is mobile learning (m-learning), which uses different mobile telecommunication equipment, such as cellular phones.
 
 ![Room](https://via.placeholder.com/1200x800#wide)
+
 *Photo by [Priscilla Du Preez](https://via.placeholder.com/1200x800) on [Unsplash](https://via.placeholder.com/1200x800)*
 
 When a learner interacts with the e-learning environment, it's called augmented learning. By adapting to the needs of individuals, the context-driven instruction can be dynamically tailored to the learner's natural environment. Augmented digital content may include text, images, video, audio (music and voice). By personalizing instruction, augmented learning has been shown to improve learning performance for a lifetime. See also minimally invasive.
