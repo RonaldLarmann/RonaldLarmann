@@ -1,88 +1,95 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Mria</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Mria</description>
+    <title>Tags on WortWerk</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on WortWerk</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 14 Nov 2021 15:01:35 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-de</language>
+    <lastBuildDate>Wed, 14 May 2025 15:01:35 +0300</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schule</title>
+      <link>//localhost:1313/tags/schule/</link>
+      <pubDate>Wed, 14 May 2025 15:01:35 +0300</pubDate>
+      <guid>//localhost:1313/tags/schule/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Lifestyle</title>
-      <link>http://localhost:1313/tags/lifestyle/</link>
+      <link>//localhost:1313/tags/lifestyle/</link>
       <pubDate>Sun, 14 Nov 2021 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/tags/lifestyle/</guid>
+      <guid>//localhost:1313/tags/lifestyle/</guid>
       <description></description>
     </item>
     <item>
       <title>Workflow</title>
-      <link>http://localhost:1313/tags/workflow/</link>
+      <link>//localhost:1313/tags/workflow/</link>
       <pubDate>Fri, 12 Nov 2021 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/tags/workflow/</guid>
+      <guid>//localhost:1313/tags/workflow/</guid>
       <description></description>
     </item>
     <item>
       <title>Oregon</title>
-      <link>http://localhost:1313/tags/oregon/</link>
+      <link>//localhost:1313/tags/oregon/</link>
       <pubDate>Tue, 09 Nov 2021 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/tags/oregon/</guid>
+      <guid>//localhost:1313/tags/oregon/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>http://localhost:1313/tags/technology/</link>
+      <link>//localhost:1313/tags/technology/</link>
       <pubDate>Mon, 08 Nov 2021 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/tags/technology/</guid>
+      <guid>//localhost:1313/tags/technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>http://localhost:1313/tags/travel/</link>
+      <link>//localhost:1313/tags/travel/</link>
       <pubDate>Fri, 10 Sep 2021 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/tags/travel/</guid>
+      <guid>//localhost:1313/tags/travel/</guid>
       <description></description>
     </item>
     <item>
       <title>California</title>
-      <link>http://localhost:1313/tags/california/</link>
+      <link>//localhost:1313/tags/california/</link>
       <pubDate>Thu, 09 Sep 2021 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/tags/california/</guid>
+      <guid>//localhost:1313/tags/california/</guid>
       <description></description>
     </item>
     <item>
       <title>Italy</title>
-      <link>http://localhost:1313/tags/italy/</link>
+      <link>//localhost:1313/tags/italy/</link>
       <pubDate>Tue, 07 Sep 2021 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/tags/italy/</guid>
+      <guid>//localhost:1313/tags/italy/</guid>
       <description></description>
     </item>
     <item>
       <title>Egypt</title>
-      <link>http://localhost:1313/tags/egypt/</link>
+      <link>//localhost:1313/tags/egypt/</link>
       <pubDate>Thu, 02 Sep 2021 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/tags/egypt/</guid>
+      <guid>//localhost:1313/tags/egypt/</guid>
       <description></description>
     </item>
     <item>
       <title>Coding</title>
-      <link>http://localhost:1313/tags/coding/</link>
+      <link>//localhost:1313/tags/coding/</link>
       <pubDate>Sat, 31 Oct 2020 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/tags/coding/</guid>
+      <guid>//localhost:1313/tags/coding/</guid>
       <description></description>
     </item>
     <item>
       <title>Productivity</title>
-      <link>http://localhost:1313/tags/productivity/</link>
+      <link>//localhost:1313/tags/productivity/</link>
       <pubDate>Fri, 29 May 2020 18:05:55 +0300</pubDate>
-      <guid>http://localhost:1313/tags/productivity/</guid>
+      <guid>//localhost:1313/tags/productivity/</guid>
       <description></description>
     </item>
     <item>
       <title>Video</title>
-      <link>http://localhost:1313/tags/video/</link>
+      <link>//localhost:1313/tags/video/</link>
       <pubDate>Thu, 14 Nov 2019 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/tags/video/</guid>
+      <guid>//localhost:1313/tags/video/</guid>
       <description></description>
     </item>
   </channel>

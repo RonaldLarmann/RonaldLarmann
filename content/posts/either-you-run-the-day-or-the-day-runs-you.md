@@ -2,7 +2,7 @@
 title:  Either you run the day, or the day runs you
 description:
 date:   2021-11-07 15:01:35 +0300
-authors: [admin]
+authors: [henri]
 image:  'https://placehold.co/1200x800'
 tags:   [lifestyle]
 tags_color: '#b25642'

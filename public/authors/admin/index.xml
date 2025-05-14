@@ -1,81 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mria</title>
-    <link>http://localhost:1313/authors/admin/</link>
-    <description>Recent content on Mria</description>
+    <title>Admin on WortWerk</title>
+    <link>//localhost:1313/authors/admin/</link>
+    <description>Recent content in Admin on WortWerk</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>de-de</language>
     <lastBuildDate>Thu, 11 Nov 2021 15:01:35 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The purpose of our lives is to be happy</title>
-      <link>http://localhost:1313/posts/the-purpose-of-our-lives-is-to-be-happy/</link>
+      <link>//localhost:1313/posts/the-purpose-of-our-lives-is-to-be-happy/</link>
       <pubDate>Thu, 11 Nov 2021 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/the-purpose-of-our-lives-is-to-be-happy/</guid>
+      <guid>//localhost:1313/posts/the-purpose-of-our-lives-is-to-be-happy/</guid>
       <description>&lt;p&gt;In operant conditioning, a reinforcement (by reward) or instead a punishment is given after a given behavior, changing the frequency and/or form of that behavior. Stimulus present when the behavior/consequence occurs come to control these behavior modifications.&lt;/p&gt;&#xA;&lt;p&gt;Observational learning is learning that occurs through observing the behavior of others. It is a form of social learning which takes various forms, based on various processes. In humans, this form of learning seems to not need reinforcement to occur, but instead, requires a social model such as a parent, sibling, friend, or teacher with surroundings.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Love the life you live. Live the life you love</title>
-      <link>http://localhost:1313/posts/love-the-life-you-live-live-the-life-you-love/</link>
+      <link>//localhost:1313/posts/love-the-life-you-live-live-the-life-you-love/</link>
       <pubDate>Wed, 10 Nov 2021 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/love-the-life-you-live-live-the-life-you-love/</guid>
-      <description>&lt;p&gt;In operant conditioning, a reinforcement (by reward) or instead a punishment is given after a given behavior, changing the frequency and/or form of that behavior. Stimulus present when the behavior/consequence occurs come to control these behavior modifications.&lt;/p&gt;&#xA;&lt;p&gt;Observational learning is learning that occurs through observing the behavior of others. It is a form of social learning which takes various forms, based on various processes. In humans, this form of learning seems to not need reinforcement to occur, but instead, requires a social model such as a parent, sibling, friend, or teacher with surroundings.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Either you run the day, or the day runs you</title>
-      <link>http://localhost:1313/posts/either-you-run-the-day-or-the-day-runs-you/</link>
-      <pubDate>Sun, 07 Nov 2021 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/either-you-run-the-day-or-the-day-runs-you/</guid>
+      <guid>//localhost:1313/posts/love-the-life-you-live-live-the-life-you-love/</guid>
       <description>&lt;p&gt;In operant conditioning, a reinforcement (by reward) or instead a punishment is given after a given behavior, changing the frequency and/or form of that behavior. Stimulus present when the behavior/consequence occurs come to control these behavior modifications.&lt;/p&gt;&#xA;&lt;p&gt;Observational learning is learning that occurs through observing the behavior of others. It is a form of social learning which takes various forms, based on various processes. In humans, this form of learning seems to not need reinforcement to occur, but instead, requires a social model such as a parent, sibling, friend, or teacher with surroundings.&lt;/p&gt;</description>
     </item>
     <item>
       <title>If you really look closely, most overnight successes took a long time</title>
-      <link>http://localhost:1313/posts/if-you-really-look-closely-most-overnight-successes-took-a-long-time/</link>
+      <link>//localhost:1313/posts/if-you-really-look-closely-most-overnight-successes-took-a-long-time/</link>
       <pubDate>Thu, 09 Sep 2021 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/if-you-really-look-closely-most-overnight-successes-took-a-long-time/</guid>
+      <guid>//localhost:1313/posts/if-you-really-look-closely-most-overnight-successes-took-a-long-time/</guid>
       <description>&lt;p&gt;In operant conditioning, a reinforcement (by reward) or instead a punishment is given after a given behavior, changing the frequency and/or form of that behavior. Stimulus present when the behavior/consequence occurs come to control these behavior modifications.&lt;/p&gt;&#xA;&lt;p&gt;Observational learning is learning that occurs through observing the behavior of others. It is a form of social learning which takes various forms, based on various processes. In humans, this form of learning seems to not need reinforcement to occur, but instead, requires a social model such as a parent, sibling, friend, or teacher with surroundings.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The secret of success is to do the common thing uncommonly well</title>
-      <link>http://localhost:1313/posts/the-secret-of-success-is-to-do-the-common-thing-uncommonly-well/</link>
+      <link>//localhost:1313/posts/the-secret-of-success-is-to-do-the-common-thing-uncommonly-well/</link>
       <pubDate>Tue, 07 Sep 2021 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/the-secret-of-success-is-to-do-the-common-thing-uncommonly-well/</guid>
+      <guid>//localhost:1313/posts/the-secret-of-success-is-to-do-the-common-thing-uncommonly-well/</guid>
       <description>&lt;p&gt;In operant conditioning, a reinforcement (by reward) or instead a punishment is given after a given behavior, changing the frequency and/or form of that behavior. Stimulus present when the behavior/consequence occurs come to control these behavior modifications.&lt;/p&gt;&#xA;&lt;p&gt;Observational learning is learning that occurs through observing the behavior of others. It is a form of social learning which takes various forms, based on various processes. In humans, this form of learning seems to not need reinforcement to occur, but instead, requires a social model such as a parent, sibling, friend, or teacher with surroundings.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The road to success and the road to failure are almost exactly the same</title>
-      <link>http://localhost:1313/posts/the-road-to-success-and-the-road-to-failure-are-almost-exactly-the-same/</link>
+      <link>//localhost:1313/posts/the-road-to-success-and-the-road-to-failure-are-almost-exactly-the-same/</link>
       <pubDate>Sat, 04 Sep 2021 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/the-road-to-success-and-the-road-to-failure-are-almost-exactly-the-same/</guid>
+      <guid>//localhost:1313/posts/the-road-to-success-and-the-road-to-failure-are-almost-exactly-the-same/</guid>
       <description>&lt;p&gt;In operant conditioning, a reinforcement (by reward) or instead a punishment is given after a given behavior, changing the frequency and/or form of that behavior. Stimulus present when the behavior/consequence occurs come to control these behavior modifications.&lt;/p&gt;&#xA;&lt;p&gt;Observational learning is learning that occurs through observing the behavior of others. It is a form of social learning which takes various forms, based on various processes. In humans, this form of learning seems to not need reinforcement to occur, but instead, requires a social model such as a parent, sibling, friend, or teacher with surroundings.&lt;/p&gt;</description>
     </item>
     <item>
       <title>In order to write about life first you must live it</title>
-      <link>http://localhost:1313/posts/in-order-to-write-about-life-first-you-must-live-it/</link>
+      <link>//localhost:1313/posts/in-order-to-write-about-life-first-you-must-live-it/</link>
       <pubDate>Sat, 31 Oct 2020 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/in-order-to-write-about-life-first-you-must-live-it/</guid>
+      <guid>//localhost:1313/posts/in-order-to-write-about-life-first-you-must-live-it/</guid>
       <description>&lt;p&gt;In operant conditioning, a reinforcement (by reward) or instead a punishment is given after a given behavior, changing the frequency and/or form of that behavior. Stimulus present when the behavior/consequence occurs come to control these behavior modifications.&lt;/p&gt;&#xA;&lt;p&gt;Observational learning is learning that occurs through observing the behavior of others. It is a form of social learning which takes various forms, based on various processes. In humans, this form of learning seems to not need reinforcement to occur, but instead, requires a social model such as a parent, sibling, friend, or teacher with surroundings.&lt;/p&gt;</description>
     </item>
     <item>
       <title>You never really learn much from hearing yourself speak</title>
-      <link>http://localhost:1313/posts/you-never-really-learn-much-from-hearing-yourself-speak/</link>
+      <link>//localhost:1313/posts/you-never-really-learn-much-from-hearing-yourself-speak/</link>
       <pubDate>Fri, 24 Apr 2020 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/you-never-really-learn-much-from-hearing-yourself-speak/</guid>
-      <description>&lt;p&gt;In operant conditioning, a reinforcement (by reward) or instead a punishment is given after a given behavior, changing the frequency and/or form of that behavior. Stimulus present when the behavior/consequence occurs come to control these behavior modifications.&lt;/p&gt;&#xA;&lt;p&gt;Observational learning is learning that occurs through observing the behavior of others. It is a form of social learning which takes various forms, based on various processes. In humans, this form of learning seems to not need reinforcement to occur, but instead, requires a social model such as a parent, sibling, friend, or teacher with surroundings.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Change your thoughts and you change your world</title>
-      <link>http://localhost:1313/posts/change-your-thoughts-and-you-change-your-world/</link>
-      <pubDate>Thu, 14 Nov 2019 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/change-your-thoughts-and-you-change-your-world/</guid>
-      <description>&lt;p&gt;In operant conditioning, a reinforcement (by reward) or instead a punishment is given after a given behavior, changing the frequency and/or form of that behavior. Stimulus present when the behavior/consequence occurs come to control these behavior modifications.&lt;/p&gt;&#xA;&lt;p&gt;Observational learning is learning that occurs through observing the behavior of others. It is a form of social learning which takes various forms, based on various processes. In humans, this form of learning seems to not need reinforcement to occur, but instead, requires a social model such as a parent, sibling, friend, or teacher with surroundings.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Don&#39;t be afraid to give up the good to go for the great</title>
-      <link>http://localhost:1313/posts/dont-be-afraid-to-give-up-the-good-to-go-for-the-great/</link>
-      <pubDate>Sat, 14 Sep 2019 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/dont-be-afraid-to-give-up-the-good-to-go-for-the-great/</guid>
+      <guid>//localhost:1313/posts/you-never-really-learn-much-from-hearing-yourself-speak/</guid>
       <description>&lt;p&gt;In operant conditioning, a reinforcement (by reward) or instead a punishment is given after a given behavior, changing the frequency and/or form of that behavior. Stimulus present when the behavior/consequence occurs come to control these behavior modifications.&lt;/p&gt;&#xA;&lt;p&gt;Observational learning is learning that occurs through observing the behavior of others. It is a form of social learning which takes various forms, based on various processes. In humans, this form of learning seems to not need reinforcement to occur, but instead, requires a social model such as a parent, sibling, friend, or teacher with surroundings.&lt;/p&gt;</description>
     </item>
   </channel>

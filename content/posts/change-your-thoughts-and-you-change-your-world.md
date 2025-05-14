@@ -2,7 +2,7 @@
 title: Change your thoughts and you change your world
 description:
 date: 2019-11-14 15:01:35 +0300
-authors: [admin]
+authors: [henri]
 image: "https://placehold.co/1200x800"
 video_embed: https://www.youtube.com/embed/NpEaa2P7qZI
 tags: [lifestyle, video]
