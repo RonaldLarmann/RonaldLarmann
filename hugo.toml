@@ -1,8 +1,0 @@
-baseURL = 'www.wortwerk.team'
-languageCode = 'de-de'
-title = 'Ronald'
-theme = 'ananke'
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
