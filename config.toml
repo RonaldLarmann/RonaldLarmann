@@ -95,6 +95,7 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
   logo_dark = ""
   description = "Mria is a multipurpose blog theme for HUGO"
   color_scheme = "auto" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+  favicon = true
 
 
 #-------------------------------
