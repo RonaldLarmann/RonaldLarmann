@@ -2,7 +2,7 @@
 title:  Only a life lived for others is a life worthwhile
 description:
 date:   2021-11-12 15:01:35 +0300
-authors: [nolan]
+authors: []
 image:  'https://placehold.co/1200x800'
 tags_color: '#a149cb'
 tags:   [workflow]

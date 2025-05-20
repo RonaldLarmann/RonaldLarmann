@@ -2,7 +2,7 @@
 title:  The road to success and the road to failure are almost exactly the same
 description:
 date:   2021-09-04 15:01:35 +0300
-authors: [admin]
+authors: []
 image:  'https://placehold.co/1200x800'
 tags:   [italy, travel]
 tags_color: '#64655f'

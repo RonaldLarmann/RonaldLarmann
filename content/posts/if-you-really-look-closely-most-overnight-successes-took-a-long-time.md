@@ -2,7 +2,7 @@
 title:  If you really look closely, most overnight successes took a long time
 description:
 date:   2021-09-09 15:01:35 +0300
-authors: [admin, nolan]
+authors: []
 image:  'https://placehold.co/1200x800'
 tags:   [travel, california]
 tags_color: '#814628'

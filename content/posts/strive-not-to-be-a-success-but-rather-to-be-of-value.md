@@ -2,7 +2,7 @@
 title:  Strive not to be a success, but rather to be of value
 description:
 date:   2021-11-08 15:01:35 +0300
-authors: [tiana]
+authors: []
 image:  'https://placehold.co/1200x800'
 tags:   [technology]
 tags_color: '#4c49cb'

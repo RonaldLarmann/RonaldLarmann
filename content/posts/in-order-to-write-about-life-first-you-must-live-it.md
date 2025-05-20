@@ -2,7 +2,7 @@
 title:  In order to write about life first you must live it
 description: These complex processes, called physiological functions, have underlying physical and chemical bases, as well as signaling and control mechanisms that are essential to maintaining life.
 date:   2020-10-31 15:01:35 +0300
-authors: [admin, nolan, tiana]
+authors: []
 image:  'https://placehold.co/1200x800'
 tags:   [coding]
 tags_color: '#cb4949'

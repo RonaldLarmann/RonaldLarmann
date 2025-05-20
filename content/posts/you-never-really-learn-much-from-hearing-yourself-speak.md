@@ -2,7 +2,7 @@
 title:  You never really learn much from hearing yourself speak
 description: These complex processes, called physiological functions, have underlying physical and chemical bases, as well as signaling and control mechanisms that are essential to maintaining life.
 date:   2020-04-24 15:01:35 +0300
-authors: [admin]
+authors: []
 image:  'https://placehold.co/1200x800'
 tags:   [workflow]
 tags_color: '#a149cb'

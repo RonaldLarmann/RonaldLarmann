@@ -2,7 +2,7 @@
 title:  Keep smiling, because life is a beautiful thing and there's so much to smile about
 description:
 date:   2021-09-10 15:01:35 +0300
-authors: [nolan]
+authors: []
 image:  'https://placehold.co/1200x800'
 tags:   [travel, oregon]
 tags_color: '#477690'

@@ -2,7 +2,7 @@
 title:  Success usually comes to those who are too busy to be looking for it
 description:
 date:   2021-09-08 15:01:35 +0300
-authors: [nolan]
+authors: []
 image:  'https://placehold.co/1200x800'
 tags:   [travel]
 tags_color: '#618770'

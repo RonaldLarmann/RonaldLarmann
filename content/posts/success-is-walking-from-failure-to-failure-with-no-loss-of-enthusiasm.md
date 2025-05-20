@@ -2,7 +2,7 @@
 title:  Success is walking from failure to failure with no loss of enthusiasm
 description:
 date:   2021-09-02 15:01:35 +0300
-authors: [nolan]
+authors: []
 image:  'https://placehold.co/1200x800'
 tags:   [travel, egypt]
 tags_color: '#ca622c'

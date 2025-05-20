@@ -2,7 +2,7 @@
 title:  Whatever the mind of man can conceive and believe, it can achieve
 description:
 date:   2021-09-07 15:01:35 +0300
-authors: [tiana]
+authors: []
 image:  'https://placehold.co/1200x800'
 tags:   [travel, italy]
 tags_color: '#618770'

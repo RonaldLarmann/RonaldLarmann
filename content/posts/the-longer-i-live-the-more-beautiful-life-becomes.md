@@ -2,7 +2,7 @@
 title: The longer I live, the more beautiful life becomes
 description:
 date: 2019-10-14 15:01:35 +0300
-authors: [nolan]
+authors: []
 image: 'https://placehold.co/1200x800'
 video_embed: https://www.youtube.com/embed/NpEaa2P7qZI
 tags: [video, productivity]

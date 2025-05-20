@@ -2,7 +2,7 @@
 title:  Einblicke in den Nationalpark Eifel
 description: Vortrag mit Parkleiter Michael Lammertz begeisterte Jugendliche am Mechernicher Gymnasium Am Turmhof
 date:   2025-05-14 15:01:35 +0300
-authors: [ron]
+authors: [henri]
 image:  'images/Vortrag_Lammertz_GAT_25.JPG' 
 video_embed:
 tags:   [schule]

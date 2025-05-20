@@ -1,7 +1,7 @@
 ---
 name: Henri Grüger
-image: 'https://placehold.co/400x400'
-cover:
+image: '/images/Autoren/Henri-Grueger-400x400.jpg'
+cover: 
 location: Bleibuir
 website: 
 twitter: 

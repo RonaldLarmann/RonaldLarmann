@@ -3,7 +3,7 @@ layout: post
 title:  If opportunity doesn’t knock, build a door
 description:
 date:   2021-11-09 15:01:35 +0300
-authors: [nolan]
+authors: []
 image:  'https://placehold.co/1200x800'
 tags:   [oregon]
 tags_color: '#618770'

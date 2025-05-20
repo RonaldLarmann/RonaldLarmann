@@ -2,7 +2,7 @@
 title:  The secret of success is to do the common thing uncommonly well
 description:
 date:   2021-09-07 15:01:35 +0300
-authors: [admin]
+authors: []
 image:  'https://placehold.co/1200x800'
 tags:   [oregon, travel]
 tags_color: '#666e76'

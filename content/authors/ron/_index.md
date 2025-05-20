@@ -1,7 +1,7 @@
 ---
 name: Ronald Larmann
-image: 'https://placehold.co/400x400'
-cover:
+image: '/images/Autoren/Ronald-Larmann-400x400.jpg'
+cover: ccc
 location: Bleibuir
 website: 
 twitter: 

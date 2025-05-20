@@ -2,7 +2,7 @@
 title: Don't be afraid to give up the good to go for the great
 description:
 date: 2019-09-14 15:01:35 +0300
-authors: [henri]
+authors: []
 image: 'https://placehold.co/1200x800'
 video_embed: https://www.youtube.com/embed/NpEaa2P7qZI
 tags: [lifestyle, video]

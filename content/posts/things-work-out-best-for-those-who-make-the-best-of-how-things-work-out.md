@@ -2,7 +2,7 @@
 title:  Things work out best for those who make the best of how things work out
 description:
 date:   2021-09-03 15:01:35 +0300
-authors: [tiana]
+authors: []
 image:  'https://placehold.co/1200x800'
 tags:   [italy, travel]
 tags_color: '#618770'

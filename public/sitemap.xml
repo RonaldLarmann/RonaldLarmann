@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/authors/ron/</loc>
+    <loc>//localhost:1313/authors/henri/</loc>
     <lastmod>2025-05-14T15:01:35+03:00</lastmod>
   </url><url>
     <loc>//localhost:1313/authors/</loc>
@@ -23,9 +23,6 @@
     <loc>//localhost:1313/</loc>
     <lastmod>2025-05-14T15:01:35+03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/authors/nolan/</loc>
-    <lastmod>2021-11-14T15:01:35+03:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/posts/in-three-words-i-can-sum-up-everything-ive-learned-about-life-it-goes-on/</loc>
     <lastmod>2021-11-14T15:01:35+03:00</lastmod>
   </url><url>
@@ -37,9 +34,6 @@
   </url><url>
     <loc>//localhost:1313/tags/workflow/</loc>
     <lastmod>2021-11-12T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/authors/admin/</loc>
-    <lastmod>2021-11-11T15:01:35+03:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/the-purpose-of-our-lives-is-to-be-happy/</loc>
     <lastmod>2021-11-11T15:01:35+03:00</lastmod>
@@ -53,17 +47,11 @@
     <loc>//localhost:1313/tags/oregon/</loc>
     <lastmod>2021-11-09T15:01:35+03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/authors/tiana/</loc>
-    <lastmod>2021-11-08T15:01:35+03:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/posts/strive-not-to-be-a-success-but-rather-to-be-of-value/</loc>
     <lastmod>2021-11-08T15:01:35+03:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/technology/</loc>
     <lastmod>2021-11-08T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/authors/henri/</loc>
-    <lastmod>2021-11-07T15:01:35+03:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/either-you-run-the-day-or-the-day-runs-you/</loc>
     <lastmod>2021-11-07T15:01:35+03:00</lastmod>
@@ -133,6 +121,8 @@
   </url><url>
     <loc>//localhost:1313/posts/dont-be-afraid-to-give-up-the-good-to-go-for-the-great/</loc>
     <lastmod>2019-09-14T15:01:35+03:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/authors/ron/</loc>
   </url><url>
     <loc>//localhost:1313/about/</loc>
   </url><url>

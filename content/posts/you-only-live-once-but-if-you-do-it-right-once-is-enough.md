@@ -2,7 +2,7 @@
 title:  You only live once, but if you do it right, once is enough
 description: These complex processes, called physiological functions, have underlying physical and chemical bases, as well as signaling and control mechanisms that are essential to maintaining life.
 date:   2020-05-29 18:05:55 +0300
-authors: [nolan]
+authors: []
 image:  'https://placehold.co/1200x800'
 tags:   [productivity]
 tags_color: '#618770'
