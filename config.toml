@@ -122,7 +122,7 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 [params.tag]
   enable = true
   tag = "travel" # To display the tag section, specify your favorite tag.
-  tag = "lifestyle" # To display the tag section, specify your favorite tag.
+  
 
 #-------------------------------
 # Author Section Settings
