@@ -93,7 +93,7 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 [params]
   logo = "images/pp-gr.png" # You can add own logo. For example "/images/logo.png".
   logo_dark = ""
-  description = "Mria is a multipurpose blog theme for HUGO"
+  description = "ProfiPress - Agentur für Kommunikation"
   color_scheme = "light" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
   favicon = true
 
@@ -103,22 +103,22 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 [params.hero]
   enable = true
   hero__title = "Ronald Larmann arbeitet hier an einer neuen Webseite"
-  hero__description = "Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve."
-  hero__image = "" # You can add hero image. For example "/images/06.jpg"
+  hero__description = "Hier muss eine lustige Beschreibung hin"
+  hero__image = "images/Vortrag_Lammertz_GAT_25" # You can add hero image. For example "/images/06.jpg"
 
 
 #-------------------------------
 # Blog Section Settings
 [params.blog]
   enable = true
-  blog__title = "Latest Posts"
+  blog__title = "Die neusten Beiträge"
   blog__description = ""
 
 
 #-------------------------------
 # Videos Section Settings
 [params.videos]
-  enable = true
+  enable = false
   videos__title = "Latest Videos"
   videos__description = ""
 
@@ -128,7 +128,7 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 [params.tag]
   enable = true
   tag = "travel" # To display the tag section, specify your favorite tag.
-
+  tag = "lifestyle" # To display the tag section, specify your favorite tag.
 
 #-------------------------------
 # Author Section Settings
@@ -145,7 +145,7 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 
 # Newsletter
 [params.mailchimp]
-  enable = true
+  enable = false
   mailchimp__title = "Get interesting news"
   mailchimp__description = "Subscribe to our newsletter and we’ll send you the emails of latest posts."
   mailchimp__identifier = "gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp" # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
@@ -157,7 +157,7 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 #-------------------------------
 # Footer Settings
 [params.footer]
-  footer__description = "Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve."
+  footer__description = "ProfiPress - Agentur für Kommunikation"
 
 # Social Links
 [[params.social]]
@@ -197,7 +197,7 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 #-------------------------------
 # Contact Settings
 [params.contact]
-  form_id = "your@email.com" # Add your form_id
+  form_id = "larmann@icloud.com" # Add your form_id
 
   # NOTE
   # Mria comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
