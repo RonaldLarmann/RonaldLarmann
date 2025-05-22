@@ -83,12 +83,6 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
       url = "/contact/"
       weight = 3
 
-    [[menu.footer]]
-      identifier = "elements"
-      name = "Elements"
-      url = "/elements/"
-      weight = 4
-
 
 [params]
   logo = "images/pp-gr.png" # You can add own logo. For example "/images/logo.png".
